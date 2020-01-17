@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project4_card_view_and_scroll_view</string>
+    <string name="green_tree_python">Green Tree Python</string>
+    <string name="green_tree_python_resting">Green tree python resting</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="some_viper">Some viper</string>
+    <string name="amazing_viper">Amazing viper</string>
+    <string name="monitor">Monitor</string>
+    <string name="awesome_monitor">Awesome Monitor</string>
+</resources>
