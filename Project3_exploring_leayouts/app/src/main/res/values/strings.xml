@@ -7,4 +7,12 @@
     <string name="load_table_layout">Load Table Layout</string>
     <string name="load2">LOAD</string>
     <string name="back_to_the_menu">Back to the menu</string>
+    <string name="india">India</string>
+    <string name="england">England</string>
+    <string name="_1st">1st</string>
+    <string name="_2nd">2nd</string>
+    <string name="_111">111</string>
+    <string name="_222">222</string>
+    <string name="_333">333</string>
+    <string name="_444">444</string>
 </resources>
